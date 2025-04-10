@@ -1,1 +1,1 @@
-[![show-directory](https://github.com/sssspoddub/hexlet-my-first-workflow/actions/workflows/check-say-hello.yml/badge.svg)](https://github.com/sssspoddub/hexlet-my-first-workflow/actions/workflows/check-say-hello.yml)
+[![check-say-hellо](https://github.com/sssspoddub/hexlet-my-first-workflow/actions/workflows/check-say-hello.yml/badge.svg)](https://github.com/sssspoddub/hexlet-my-first-workflow/actions/workflows/check-say-hello.yml)
